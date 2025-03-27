@@ -48,6 +48,7 @@
     <div>
       <a href="https://github.com/Cho-SeongJu/crewplay-FE">크루플레이 (CREWPLAY)</a>
     </div>
+    <br />
     <div>
       <a href="https://github.com/JurinApp">주린이를 부탁해</a>
     </div>
