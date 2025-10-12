@@ -43,23 +43,4 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cho-SeongJu&layout=compact"><br><br>
   </div>
-  <div>
-    <h2>📂 Team Project Repository 📂</h2>
-    <div>
-      <a href="https://github.com/Cho-SeongJu/crewplay-FE">크루플레이 (CREWPLAY)</a>
-    </div>
-    <br />
-    <div>
-      <a href="https://github.com/JurinApp">주린이를 부탁해</a>
-    </div>
-    <br />
-    <div>
-      <a href="https://github.com/MentoMate">멘토메이트 (MENTORMATE)</a>
-    </div>
-    <br />
-    <div>
-      <a href="https://github.com/FootStepteam">발자국 (FOOT-STEP)</a>
-    </div>
-    <br />
-  </div>
 </div>
