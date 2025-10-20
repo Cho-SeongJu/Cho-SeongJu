@@ -3,15 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeongJu%20GitHub&fontSize=70" />
   </div>
   <div>
-    <h2>🌈 Introduce Me 🌈</h2>
-    <p>방문해주셔서 감사합니다 ! 저는 1년자 주니어 개발자 조성주입니다 ! </p>
-    <p>읽기 좋은 코드를 작성하기 위해 항상 고민하며 개발을 하고 있습니다.</p>
-    <p>어떻게 하면 사용자가 더 편하게 사용할 수 있을지 항상 사용자를 생각하면서 개발을 하고 있습니다.</p>
-    <p>새로운 사람들과 개발을 즐겨하며 협업을 좋아합니다.</p>
-  </div>
-  <br />
-  <br />
-  <div>
     <h2>📚 Tech Stack 📚</h2>
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
