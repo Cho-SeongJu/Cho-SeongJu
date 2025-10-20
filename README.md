@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <div>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeongJu%20GitHub&fontSize=70" />
   </div>
