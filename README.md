@@ -1,37 +1,29 @@
-<div>
-  <div>
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeongJu%20GitHub&fontSize=70" />
-  </div>
-  <div>
-    <h2>📚 Tech Stack 📚</h2>
-    <div>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
-      <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white" />
-       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:47daff,100:2a97fe&height=180&text=SeongJu%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
-    <div>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-      <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요!</li>1년차 주니 </div> 
     </div>
-    <div>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+          </div>
     </div>
-    <div>
-      <img src="https://img.shields.io/badge/AWS(S3+CloudFront)-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
     </div>
-  </div>
-  <br />
-  <br />
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cho-SeongJu&layout=compact"><br><br>
-  </div>
-</div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ChoSeongJu&custom_title=ChoSeongJu's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        />  </div> 
+    </div>
+    
