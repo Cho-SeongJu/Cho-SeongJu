@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+My+Github+Profile+!)](https://git.io/typing-svg)
 ### 👋 안녕하세요 꾸준히 성장하기 위해 노력하는 1년차 프론트엔드 개발자 조성주입니다. 👋
 
-### 🔗 Develop Blog & Portfolio
+### 😊 Blog & Portfolio
 
 <div>
     <a href="https://velog.io/@tjdwn9753/posts" rel="nofollow">
