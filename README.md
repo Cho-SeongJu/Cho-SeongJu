@@ -1,19 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+My+Github+Profile+!)](https://git.io/typing-svg)
-### 👋 안녕하세요 꾸준히 성장하기 위해 노력하는 1년차 프론트엔드 개발자 조성주입니다. 👋
 
-### 😊 Blog & Portfolio
+**🙇🏻‍♂️ 안녕하세요! 즐겁게 코딩하며 성장하는 1년차 프론트엔드 개발자 조성주입니다.**
+
+<img src="https://github.com/user-attachments/assets/6d401244-43c9-4c72-9de4-6d94c9858749" width="200" alt="성주 프로필 이미지" />
+
+#### 🏢 Work Experience
+- 잠바구니 2025.05 ~ (재직중)
+- 키클롭스 2024.07 ~ 2024.10
+- 와이앤씨스마트앱스 2022.05 ~ 2022.12
+
+#### 😊 Blog & Portfolio
 
 <div>
     <a href="https://velog.io/@tjdwn9753/posts" rel="nofollow">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-    
-<a href="https://choseongju-portfolio.vercel.app/" rel="nofollow">
-    <img src="https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=portfolio&logoColor=white">
-</a>
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+    </a>    
+    <a href="https://choseongju-portfolio.vercel.app/" rel="nofollow">
+        <img src="https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=portfolio&logoColor=white">
+    </a>
 </div>
 
-### ⚙️ Tech Stack
+#### ⚙️ Tech Stack
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
