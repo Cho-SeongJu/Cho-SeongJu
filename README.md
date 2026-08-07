@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/6d401244-43c9-4c72-9de4-6d94c9858749" width="200" alt="성주 프로필 이미지" />
 
 #### 🏢 Work Experience
-- 잠바구니, Front-End Developer (2025.05 ~ )
+- 알챗(RCHAT), Front-End Developer (2025.05 ~ )
 - 키클롭스, Front-End Developer (2024.07 ~ 2024.10)
 - 와이앤씨스마트앱스, Web Developer (2022.05 ~ 2022.12)
 
