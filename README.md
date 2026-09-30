@@ -8,7 +8,7 @@
 - 알챗(RCHAT), Front-End Developer (2025.05 - )
 - 키클롭스, Front-End Developer (2024.07 - 2024.10)
 - 와이앤씨스마트앱스, Web Developer (2022.05 - 2022.12)
-- 조인트지, Web Developer (2021.08 - 2022.02)
+- 조인트리, Web Developer (2021.08 - 2022.02)
 
 #### 😊 Blog & Portfolio
 
