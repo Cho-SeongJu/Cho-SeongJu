@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+My+Github+Profile+!)](https://git.io/typing-svg)
 
-**🙇🏻‍♂️ 안녕하세요! 즐겁게 코딩하며 성장하는 3년차 프론트엔드 개발자 조성주입니다.**
+**🙇🏻‍♂️ 안녕하세요! 3년차 프론트엔드 개발자 조성주입니다.**
 
 <img src="https://github.com/user-attachments/assets/6d401244-43c9-4c72-9de4-6d94c9858749" width="200" alt="성주 프로필 이미지" />
 
